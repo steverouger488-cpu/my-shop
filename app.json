@@ -17,7 +17,7 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#0f0f14"
       },
-      "package": "com.myshop.inventory",
+      "package": "com.steverouger488.myshop",
       "versionCode": 1,
       "permissions": [
         "android.permission.READ_EXTERNAL_STORAGE",
